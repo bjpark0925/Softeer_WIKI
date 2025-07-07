@@ -1,6 +1,0 @@
-column명 변경: https://mizykk.tistory.com/131
-bar chart 작성: https://wikidocs.net/92095
-gear와 transmission의 경우의 수 대로 차량을 나눌 때 헤맴: groupby와 size 함수의 존재를 알게 됨
-각 변수들 간 상관관계를 알아볼 때, 차 이름을 제외시키기 위해 임시로 열을 삭제: https://docs.kanaries.net/ko/topics/Python/dataframe-drop-column
-산점도 그리기: https://wikidocs.net/92110
-seaborn으로 heatmap 그리기: https://m.blog.naver.com/janghanui/222415069492
