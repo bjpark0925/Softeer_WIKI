@@ -63,11 +63,11 @@ print(f'P-value of disp and mpg: {p_value}, equation: y = {slope:.2f}x + {interc
 
 - 출력 결과
     
-    ![image.png](attachment:ffe81a3b-3a0d-4b78-bd17-258311caffa3:image.png)
+    ![image.png](\images\image.png)
     
-    ![image.png](attachment:13c15be7-184a-4356-b2e8-f87ec612bb9a:image.png)
+    ![image.png](\images\image1.png)
     
-    ![image.png](attachment:be46796b-f04b-4421-9f82-676ba236d25e:image.png)
+    ![image.png](\images\image2.png)
     
     P-value of wt and mpg: 1.2939587013504974e-10, equation: y = -5.34x + 37.29
     P-value of cyl and mpg: 6.112687142580981e-10, equation: y = -2.88x + 37.88
